@@ -1,1 +1,2 @@
 # PaddleNLP_Correct
+table_process.py实现了正确地根据HTML转为Word表格，原始版本在遇到合并单元格时会有格式错误
